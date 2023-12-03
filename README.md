@@ -32,6 +32,7 @@ More information can be found on [Databricks](https://www.databricks.com/) websi
   One important advantage of Lakehouse systems in simplicity is that they manage all the data in the organization, so data analysts can be granted access to work with raw and historical data as it arrives instead of only the subset of data loaded into a data warehouse system. An analyst can therefore easily ask questions that span multiple historical datasets or establish a new pipeline for working with a new dataset without blocking on a database administrator or data engineer to load the appropriate data. Built-in support for AI also makes it easy for analysts to run AI models built by a machine learning team on any data. [^5]
   [^5]: https://www.databricks.com/blog/2021/08/30/frequently-asked-questions-about-the-data-lakehouse.html#six
   
+Databricks' lakehouse is based on the open source Apache Spark framework that allows analytical queries against semi-structured data without a traditional database schema.
 
 ## Landscape
 
@@ -53,9 +54,17 @@ More information can be found on [Databricks](https://www.databricks.com/) websi
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Databricks made one of the biggest splashes in 2023’s heated AI deal space with the acquisition of MosaicML, a startup that helps businesses build their own AI models, for $1.3 billion in June. The move puts the No. 2 Cloud 100 company in sharp contrast with No. 1 OpenAI, which is making money selling access to its GPT-4 model. More than 10,000 companies like Adobe, Shell and the USPS use its products to build analytics and machine learning tools. The company closed its fiscal year ending in January 2023 with $1 billion of revenue. 
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* What are some of the core metrics that companies in this field use to measure success?
+Metrics such as: 
+  - Scalability and market penetration
+  - Number of customers
+  - User engagement and retention
+  - Profits
+  - Merger and acquisitions
+  - Amount of funding and investments
+  - Number of Employees
 
 * How is your company performing relative to competitors in the same field?
 
