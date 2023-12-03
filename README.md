@@ -52,7 +52,7 @@ Databricks' lakehouse is based on the open source Apache Spark framework that al
 
 ## Results
 
-* *Databricks made one of the biggest splashes in 2023’s heated AI deal space with the acquisition of MosaicML, a startup that helps businesses build their own AI models, for $1.3 billion in June. The move puts the No. 2 Cloud 100 company in sharp contrast with No. 1 OpenAI, which is making money selling access to its GPT-4 model. More than 10,000 companies like Adobe, Shell and the USPS use its products to build analytics and machine learning tools. The company closed its fiscal year ending in January 2023 with $1 billion of revenue. *
+* *Databricks made one of the biggest splashes in 2023’s heated AI deal space with the acquisition of MosaicML, a startup that helps businesses build their own AI models, for $1.3 billion in June. The move puts the No. 2 Cloud 100 company in sharp contrast with No. 1 OpenAI, which is making money selling access to its GPT-4 model. More than 10,000 companies like Adobe, Shell and the USPS use its products to build analytics and machine learning tools. The company closed its fiscal year ending in January 2023 with $1 billion of revenue.*
 
 * Below some of the core metrics that companies in this field use to measure success:
   - Scalability and market penetration
@@ -63,14 +63,18 @@ Databricks' lakehouse is based on the open source Apache Spark framework that al
   - Amount of funding and investments
   - Number of Employees
 
-* How is your company performing relative to competitors in the same field?
-
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I would advise Databricks to:
+  - Create a user friendly platform that would allow anyone to use, manage and produce data, even without a formal training or data background
+  - Specialize in a few fields rather than getting involved in everything and anything
+  - Carefully and smartly plan any further acquisitions
+  - Even though the world of AI is moving quickly, it's very important to allow for some time and experience to develop so the company is able to expand its knowledge of the business and the market, awareness of competitors and the best areas for future growth
 
-* Why do you think that offering this product or service would benefit the company?
+* By doing this, the company can:
+  - Become an expert and go-to solution on these specific sectors
+  - Use their money and resources wisely
+  - Achieve a thorough understanding of the market, competitors and clients
+  - Improve profitability
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* Databricks should rely on the expertise of financial advisors and tech-giants
