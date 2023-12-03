@@ -52,8 +52,8 @@ Databricks' lakehouse is based on the open source Apache Spark framework that al
 
 ## Results
 
-* *Databricks made one of the biggest splashes in 2023’s heated AI deal space with the acquisition of MosaicML, a startup that helps businesses build their own AI models, for $1.3 billion in June. The move puts the No. 2 Cloud 100 company in sharp contrast with No. 1 OpenAI, which is making money selling access to its GPT-4 model. More than 10,000 companies like Adobe, Shell and the USPS use its products to build analytics and machine learning tools. The company closed its fiscal year ending in January 2023 with $1 billion of revenue.*
-
+* *Databricks made one of the biggest splashes in 2023’s heated AI deal space with the acquisition of MosaicML, a startup that helps businesses build their own AI models, for $1.3 billion in June. The move puts the No. 2 Cloud 100 company in sharp contrast with No. 1 OpenAI, which is making money selling access to its GPT-4 model. More than 10,000 companies like Adobe, Shell and the USPS use its products to build analytics and machine learning tools. The company closed its fiscal year ending in January 2023 with $1 billion of revenue.* [^7]
+[^7]: https://www.forbes.com/companies/databricks/?list=ai50&sh=1a30d5242ae0
 * Below some of the core metrics that companies in this field use to measure success:
   - Scalability and market penetration
   - Number of customers
