@@ -12,7 +12,7 @@
 * The company has received USD $3.5 Billion in funding and has over 5000 employees [^3]
  [^3]: https://www.forbes.com/lists/ai50/?sh=64f440c290f4
 
-More information can be found on [Databricks](https://www.databricks.com/) website.
+**More information can be found on [Databricks](https://www.databricks.com/) website.**
 
 ## Business Activities
 
@@ -38,26 +38,23 @@ Databricks' lakehouse is based on the open source Apache Spark framework that al
 
 * Databricks is considered to be in the technology and data field
   
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-  The latest trends in data science include AI and machine learning, data privacy and ethics, automated machine learning tools, real-time data analytics, and edge computing to process data closer to the source.[^6]
-  1. TinyML and Small Data: TinyML algorithms are designed to consume the least amount of space possible and run on low-powered hardware.
-  2. Data-Driven Consumer Experience: Many people in data science will focus on finding new ways to leverage this customer data to create better and unique customer service and experiences.
-  3. Convergence: Smart homes, smart factories, and smart cities can now be created by leveraging artificial intelligence, enabling IoT devices to act as bright as possible without human intervention.
-  4. Auto ML: AutoML is a trend causing the "democratization" of machine learning. Anyone can create ML-based apps using tools and platforms developed by autoML solution developers. The training is designed to address the most pressing problems in their fields but is primarily geared towards subject matter experts lacking the coding skills required to apply AI to those challenges.
-  5. AI and Databases Based on Cloud
-  6. Data Visualization: Popularization of tools such as Tableau, Microsoft Power BI, and Google data studio
-  7. Scalability in Artificial Intelligence: The concept of scalable AI refers to algorithms, data models, and infrastructure capable of operating at the speed, size, and complexity required for the task. By reusing and recombining capabilities to scale across business problem statements, scalability contributes to solving scarcity and collection issues of quality data.
+* The latest trends in data science include AI and machine learning, data privacy and ethics, automated machine learning tools, real-time data analytics, and edge computing to process data closer to the source.[^6]
+   1. TinyML and Small Data: TinyML algorithms are designed to consume the least amount of space possible and run on low-powered hardware.
+   2. Data-Driven Consumer Experience: Many people in data science will focus on finding new ways to leverage this customer data to create better and unique customer service and experiences.
+   3. Convergence: Smart homes, smart factories, and smart cities can now be created by leveraging artificial intelligence, enabling IoT devices to act as bright as possible without human intervention.
+   4. Auto ML: AutoML is a trend causing the "democratization" of machine learning. Anyone can create ML-based apps using tools and platforms developed by autoML solution developers. The training is designed to address the most pressing problems in their fields but is primarily geared towards subject matter experts lacking the coding skills required to apply AI to those challenges.
+   5. AI and Databases Based on Cloud
+   6. Data Visualization: Popularization of tools such as Tableau, Microsoft Power BI, and Google data studio
+   7. Scalability in Artificial Intelligence: The concept of scalable AI refers to algorithms, data models, and infrastructure capable of operating at the speed, size, and complexity required for the task. By reusing and recombining capabilities to scale across business problem statements, scalability contributes to solving scarcity and collection issues of quality data.
  [^6]: https://www.knowledgehut.com/blog/data-science/data-science-trends
 
-* What are the other major companies in this field?
-  Vendors who provide Data Warehouses include, but are not limited to, Teradata, Snowflake, and Oracle.
+* Vendors who provide Data Warehouses include, but are not limited to, Teradata, Snowflake, and Oracle.
 
 ## Results
 
-* Databricks made one of the biggest splashes in 2023’s heated AI deal space with the acquisition of MosaicML, a startup that helps businesses build their own AI models, for $1.3 billion in June. The move puts the No. 2 Cloud 100 company in sharp contrast with No. 1 OpenAI, which is making money selling access to its GPT-4 model. More than 10,000 companies like Adobe, Shell and the USPS use its products to build analytics and machine learning tools. The company closed its fiscal year ending in January 2023 with $1 billion of revenue. 
+* *Databricks made one of the biggest splashes in 2023’s heated AI deal space with the acquisition of MosaicML, a startup that helps businesses build their own AI models, for $1.3 billion in June. The move puts the No. 2 Cloud 100 company in sharp contrast with No. 1 OpenAI, which is making money selling access to its GPT-4 model. More than 10,000 companies like Adobe, Shell and the USPS use its products to build analytics and machine learning tools. The company closed its fiscal year ending in January 2023 with $1 billion of revenue. *
 
-* What are some of the core metrics that companies in this field use to measure success?
-Metrics such as: 
+* Below some of the core metrics that companies in this field use to measure success:
   - Scalability and market penetration
   - Number of customers
   - User engagement and retention
