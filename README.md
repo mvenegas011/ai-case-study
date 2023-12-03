@@ -1,18 +1,13 @@
-# ai-case-study
-Module 1 Challenge
+# AI CASE STUDY [Module 1 Challenge]
 
+## DATABRICKS: Overview and Origin
 
-# TITLE
+* Founded in 2013 by seven UC Berkeley academics — Ali Ghodsi, Matei Zaharia, Arsalan Tavakoli-Shiraji, Patrick Wendell, Reynold Xin, Andy Konwinski and Ion Soica
 
-## Overview and Origin
+* Databricks grew out of the AMPLab project at University of California, Berkeley; while its founders were students there. AMPLab no longer exists but it allowed students to produce reports and projects focused on big data analytics. [^1] Their vision was to simplify and democratize data and AI, helping data teams solve problems in a seamless and user-friendly way. [^2] 
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
+ [^1]: https://www.datanami.com/2015/11/11/amplab-releases-succinct-a-new-way-to-query-data-in-spark/ 
+ [^2]:  https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf
 
 * How is the company funded? How much funding have they received?
 
