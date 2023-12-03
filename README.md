@@ -12,8 +12,7 @@
 * The company has received USD $3.5 Billion in funding and has over 5000 employees [^3]
  [^3]: https://www.forbes.com/lists/ai50/?sh=64f440c290f4
 
-More information can be found on [Databricks](https://www.databricks.com/) website
-data-LH.png
+More information can be found on [Databricks](https://www.databricks.com/) website.
 
 ## Business Activities
 
@@ -25,7 +24,12 @@ data-LH.png
   > The data lakehouse is an open data architecture that combines the best of data warehouse and data lakes on one platform. Now you can store all your data - structure, semi-structured and unstructured - in your open data lake and still get the data quality, performance, security and governance you expect from a data warehouse. This makes lakehouse the only data architecture that supports business intelligence, SQL analytics, real time data applications, data science and machine learning in one platform! [^4]
   [^4]:  https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+![Lakehouse Concept](data-LH.png)
+
+* In short, a Data Lakehouse is an architecture that enables efficient and secure Artificial Intelligence (AI) and Business Intelligence (BI) directly on vast amounts of data stored in Data Lakes.
+  Data lakehouse systems implement the same SQL interface as traditional data warehouses, so analysts can connect to them in existing BI and SQL tools without changing their workflows. For example, leading BI products such as Tableau, PowerBI, Qlik, and Looker can all connect to data lakehouse systems, data engineering tools like Fivetran and dbt can run against them, and analysts can export data into desktop tools such as Microsoft Excel. Lakehouse's support for ANSI SQL, fine-grained access control, and ACID transactions enables administrators to manage them the same way as data warehouse systems but cover all the data in their organization in one system.
+  
+  One important advantage of Lakehouse systems in simplicity is that they manage all the data in the organization, so data analysts can be granted access to work with raw and historical data as it arrives instead of only the subset of data loaded into a data warehouse system. An analyst can therefore easily ask questions that span multiple historical datasets or establish a new pipeline for working with a new dataset without blocking on a database administrator or data engineer to load the appropriate data. Built-in support for AI also makes it easy for analysts to run AI models built by a machine learning team on any data.
 
 ## Landscape
 
