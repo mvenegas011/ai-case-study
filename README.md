@@ -12,11 +12,12 @@
 * The company has received USD $3.5 Billion in funding and has over 5000 employees [^3]
  [^3]: https://www.forbes.com/lists/ai50/?sh=64f440c290f4
 
+More information can be found on [Databricks](https://www.databricks.com/) website
+data-LH.png
+
 ## Business Activities
 
 * Databricks solution is geared heavily towards data scientists allowing for real time analytics within workspaces that allows for collaborative work between Teams, if needed. Databricks develops a web-based platform for working with Spark, that provides automated cluster management and IPython-style notebooks.
-
-* Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
   Databricks offers a custom model approach that ties into its flagship data “lakehouse” offering in which customers store and conduct analysis on raw data. This concept and solution is their competitive advantage and what makes them unique from other competitors. Here's how they came up with this "lakehouse" concept:
